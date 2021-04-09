@@ -1,6 +1,6 @@
 # realization-of-a-textual-documents-search-interface
 this interface make you do 3 types of search on a number of  documents example (100 documents)
-
+--------------------------------------------------------------------------------------------------------------------------
 1)the first type of search is search by the name of the document :
 for that, you can check the file search.java in the Repositories
 you can check also this image before and after the search:
@@ -8,7 +8,7 @@ you can check also this image before and after the search:
 ![name1](https://user-images.githubusercontent.com/61596276/114112088-e27c7880-98db-11eb-8f65-64b51dce0d76.png)
 ![name2](https://user-images.githubusercontent.com/61596276/114112130-0475fb00-98dc-11eb-9b80-8dc99687d1ca.png)
 
-
+--------------------------------------------------------------------------------------------------------------------------
 2)the second type of search is search by auteur:
 for this, you can check the file finder.java in the Repositories
 I made a connection between two table 
@@ -17,7 +17,7 @@ you can check also this image before and after the search:
 ![auteur1](https://user-images.githubusercontent.com/61596276/114112290-5e76c080-98dc-11eb-9c99-5b39c2aa8821.PNG)
 ![auteur2](https://user-images.githubusercontent.com/61596276/114112267-53239500-98dc-11eb-8321-b68b4281cb9a.PNG)
 
-
+--------------------------------------------------------------------------------------------------------------------------
 3)the third is search by word:
 
 NOW FOR THE MOST IMPORTANT THING IN THIS PROJECT
@@ -28,15 +28,19 @@ SHE said that you have to index the documents and then you can search for the wo
 so I search for some code and I find this solution below
 https://github.com/chiragagrawal93/Lucene-Tutorials
 
+--------------------------------------------------------------------------------------------------------------------------
 BUT I DONT KNOW HOW TO ADD THIS FUNCTIONS TO MY CODE SO IT WILL WORK.
 THE PROBLEM IS THAT I DON'T KNOW HOW I CAN  CALL THIS FUNCTIONS.
 
+--------------------------------------------------------------------------------------------------------------------------
 hopefully you understand my problem if not this is my email:bachir.zahaf27@gmail.com
 
 thanks
 
-
-
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 
 in french:
 # réalisation-d-un-interface-de-recherche-documents-textuels
