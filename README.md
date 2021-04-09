@@ -25,6 +25,7 @@ Search by word
 we have to search for the word inside all the document and display them on a table 
 for that, I try to do just like the first type of search and it works normally BUT the teacher says that is not the solution
 SHE said that you have to index the documents and then you can search for the word 
+the solution is adding a logicial called LUCENE that index the files and after that you can search for a word
 so I search for some code and I find this solution below
 https://github.com/chiragagrawal93/Lucene-Tutorials
 
