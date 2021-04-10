@@ -25,14 +25,22 @@ Search by word
 we have to search for the word inside all the document and display them on a table 
 for that, I try to do just like the first type of search and it works normally BUT the teacher says that is not the solution
 SHE said that you have to index the documents and then you can search for the word 
+---------------------------------------------------------------------------------------------------------------------
 the solution is adding a logicial called LUCENE that index the files and after that you can search for a word
 so I search for some code and I find this solution below
 https://github.com/chiragagrawal93/Lucene-Tutorials
-
---------------------------------------------------------------------------------------------------------------------------
-BUT I DONT KNOW HOW TO ADD THIS FUNCTIONS TO MY CODE SO IT WILL WORK.
-THE PROBLEM IS THAT I DON'T KNOW HOW I CAN  CALL THIS FUNCTIONS.
-
+or check this zip
+[Lucene-Tutorials-master.zip](https://github.com/BachirZahaf27/realization-of-a-textual-documents-search-interface/files/6288984/Lucene-Tutorials-master.zip)
+here you can see an exemple on the index of a number of files and how you can search for a word
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+!!!!!!!!!!! THE PROBLEM IS THAT THE RESULT IS SHOWING ON THE CONSOLE AND I WANT IT TO SHOW IN A TABLE THAT'S IT JUST THAT !!!!!!!!!!!!!!!!!!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+!!!!!!!!!!! ALSO I DONT KNOW HOW TO ADD THIS FUNCTIONS TO MY CODE SO IT WILL WORK.!!!!!!!!!!!
+!!!!!!!!!!! THE PROBLEM IS THAT I DON'T KNOW HOW I CAN  CALL THIS FUNCTIONS.!!!!!!!!!!!
 --------------------------------------------------------------------------------------------------------------------------
 hopefully you understand my problem if not this is my email:bachir.zahaf27@gmail.com
 
